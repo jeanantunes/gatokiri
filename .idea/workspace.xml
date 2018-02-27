@@ -7,18 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8e82e585-bfc3-47f2-a257-d660d1fd36c1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/gatokiri_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/gatokiri_war_exploded.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_45.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/gatokiri.iml" afterPath="$PROJECT_DIR$/gatokiri.iml" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" afterPath="$PROJECT_DIR$/target/classes/application.properties" />
-      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT.war" afterPath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT.war" />
-      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT.war.original" afterPath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT.war.original" />
-      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/classes/application.properties" afterPath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/classes/application.properties" />
       <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.45.jar" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -53,16 +43,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="144">
               <caret line="20" column="68" lean-forward="false" selection-start-line="20" selection-start-column="68" selection-end-line="20" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="User.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/gatokiri/User.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="5" lean-forward="false" selection-start-line="4" selection-start-column="5" selection-end-line="4" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -120,7 +100,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-65">
@@ -128,6 +108,16 @@
               <folding>
                 <marker date="1519756958486" expanded="true" signature="3808:3839" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="V1__init.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/db/migration/V1__init.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="37" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -313,6 +303,14 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gatokiri" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatokiri" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="migration" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -541,12 +539,12 @@
       <workItem from="1519681728618" duration="11249000" />
       <workItem from="1519701667179" duration="1874000" />
       <workItem from="1519735451381" duration="2228000" />
-      <workItem from="1519739319114" duration="15423000" />
+      <workItem from="1519739319114" duration="15778000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45889000" />
+    <option name="totallyTimeSpent" value="46244000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="44" width="1323" height="780" extended-state="6" />
@@ -666,13 +664,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="18">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/db/migration/V1__init.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="27" selection-end-line="0" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -808,6 +799,14 @@
           <folding>
             <marker date="1519756958486" expanded="true" signature="3808:3839" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/db/migration/V1__init.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="27" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="37" />
+          <folding />
         </state>
       </provider>
     </entry>
