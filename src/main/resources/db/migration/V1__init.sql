@@ -1,5 +1,5 @@
 CREATE TABLE IF NOT EXISTS USER (
-  id int NOT NULL DEFAULT NEXTVAL ('USER_seq'),
+  id bigserial NOT NULL,
   name varchar(50) NOT NULL,
   email varchar(50) NOT NULL,
   PRIMARY KEY (id),
