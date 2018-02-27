@@ -8,10 +8,79 @@
   <component name="ChangeListManager">
     <list default="true" id="8e82e585-bfc3-47f2-a257-d660d1fd36c1" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/static/index.html" afterPath="$PROJECT_DIR$/src/main/resources/static/index.html" />
-      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT.war" afterPath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT.war" />
-      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT.war.original" afterPath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT.war.original" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT.war" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT.war.original" afterPath="" />
       <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/classes/application.properties" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/classes/banner.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/classes/com/gatokiri/Application.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/classes/com/gatokiri/MainController.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/classes/com/gatokiri/User.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/classes/com/gatokiri/UserRepository.class" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/classes/db/migration/V1__init.sql" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/antlr-2.7.7.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/aspectjrt-1.8.13.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.13.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/classmate-1.3.4.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/dom4j-1.6.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/flyway-core-5.0.7.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/gson-2.8.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/guava-15.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-commons-annotations-5.0.1.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-core-5.0.12.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-entitymanager-5.0.12.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-validator-5.3.6.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/iogi-1.0.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.8.0.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-core-2.8.10.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/jackson-databind-2.8.10.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/jandex-2.0.0.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/javassist-3.21.0-GA.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/javax.annotation-api-1.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/javax.ejb-api-3.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/javax.interceptor-api-1.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/javax.transaction-api-1.2.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/jboss-logging-3.3.1.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/jcl-over-slf4j-1.7.25.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/jul-to-slf4j-1.7.25.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/log4j-over-slf4j-1.7.25.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/logback-classic-1.1.11.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/logback-core-1.1.11.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/mirror-1.6.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.45.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/paranamer-2.7.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.25.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/snakeyaml-1.17.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/spring-aop-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/spring-aspects-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/spring-beans-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-1.5.10.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-autoconfigure-1.5.10.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-1.5.10.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-aop-1.5.10.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-data-jpa-1.5.10.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-jdbc-1.5.10.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-logging-1.5.10.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/spring-boot-starter-web-1.5.10.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/spring-context-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/spring-core-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/spring-data-commons-1.13.8.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/spring-data-jpa-1.11.8.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/spring-expression-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/spring-orm-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/spring-tx-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/spring-web-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/spring-webmvc-4.3.14.RELEASE.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/tomcat-jdbc-8.5.27.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/tomcat-juli-8.5.27.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/validation-api-1.1.0.Final.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/vraptor-4.2.0-RC5.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/xmlpull-1.1.3.1.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/xpp3_min-1.1.4c.jar" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/xstream-1.4.7.jar" afterPath="" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -104,7 +173,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/resources/static/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="248">
@@ -134,13 +203,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="666">
-              <caret line="37" column="20" lean-forward="false" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
+            <state relative-caret-position="192">
+              <caret line="109" column="29" lean-forward="false" selection-start-line="109" selection-start-column="29" selection-end-line="109" selection-end-column="29" />
               <folding>
-                <marker date="1519702990384" expanded="true" signature="3527:3558" ph="..." />
+                <marker date="1519745162266" expanded="true" signature="3527:3558" ph="..." />
               </folding>
             </state>
           </provider>
@@ -165,6 +234,8 @@
       <find>HibernateJpaAutoConfiguration</find>
       <find>jpa</find>
       <find>thymeleaf</find>
+      <find>aven-dependency-plugin</find>
+      <find>maven-dependency-plugin</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -219,9 +290,9 @@
         <option value="$PROJECT_DIR$/src/main/java/Application.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gatokiri/MainController.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/gatokiri/GreetingController.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/static/index.html" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -261,7 +332,7 @@
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages ProjectPane="true" />
       <showMembers />
       <showModules />
@@ -274,7 +345,77 @@
       <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gatokiri" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatokiri" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gatokiri" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatokiri" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gatokiri" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatokiri" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gatokiri" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatokiri" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gatokiri" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatokiri" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gatokiri" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gatokiri" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatokiri" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gatokiri" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatokiri" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gatokiri" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatokiri" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gatokiri" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gatokiri" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -496,12 +637,12 @@
       <workItem from="1519681728618" duration="11249000" />
       <workItem from="1519701667179" duration="1874000" />
       <workItem from="1519735451381" duration="2228000" />
-      <workItem from="1519739319114" duration="1347000" />
+      <workItem from="1519739319114" duration="5699000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31813000" />
+    <option name="totallyTimeSpent" value="36165000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="44" width="1323" height="780" extended-state="6" />
@@ -518,27 +659,27 @@
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39968896" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="1.0" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6687403" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5645412" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26588234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26588234" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Database Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -724,21 +865,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="666">
-          <caret line="37" column="20" lean-forward="false" selection-start-line="37" selection-start-column="20" selection-end-line="37" selection-end-column="20" />
-          <folding>
-            <marker date="1519702990384" expanded="true" signature="3527:3558" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/resources/static/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
           <caret line="17" column="8" lean-forward="false" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="109" column="29" lean-forward="false" selection-start-line="109" selection-start-column="29" selection-end-line="109" selection-end-column="29" />
+          <folding>
+            <marker date="1519745162266" expanded="true" signature="3527:3558" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
