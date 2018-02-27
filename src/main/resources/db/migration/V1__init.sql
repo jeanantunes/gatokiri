@@ -1,0 +1,7 @@
+CREATE TABLE IF NOT EXISTS USER (
+  id int NOT NULL AUTO_INCREMENT,
+  name varchar(50) NOT NULL,
+  email varchar(50) NOT NULL,
+  PRIMARY KEY (id),
+  UNIQUE KEY UK_email (email)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;

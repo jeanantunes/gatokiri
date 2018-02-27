@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="jotait_gatokiri@65.19.141.67" uuid="994570b1-a92d-4e00-af45-13a34fb4224c">
+      <database-info product="MySQL" version="5.6.35" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.45 ( Revision: 9131eefa398531c7dc98776e8a3fe839e544c5b2 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>jotait_gatokiri</user-name>
+      <introspection-schemas>*:jotait_gatokiri</introspection-schemas>
+    </data-source>
+    <data-source name="jotait_gatokiri@localhost" uuid="8365028f-d220-4585-84c0-d6ae38523e02">
+      <database-info product="MySQL" version="5.5.59-0ubuntu0.14.04.1" jdbc-version="4.0" driver-name="MySQL Connector Java" driver-version="mysql-connector-java-5.1.45 ( Revision: 9131eefa398531c7dc98776e8a3fe839e544c5b2 )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <introspection-schemas>*:jotait_gatokiri</introspection-schemas>
+    </data-source>
+  </component>
+</project>
