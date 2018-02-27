@@ -1,5 +1,4 @@
 CREATE DATABASE jotait_gatokiri;
-USE jotait_gatokiri;
 
 CREATE SEQUENCE USER_seq;
 
