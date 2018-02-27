@@ -1,4 +1,6 @@
 com/gatokiri/UserRepository.class
+com/gatokiri/GreetingController.class
 com/gatokiri/User.class
+com/gatokiri/IndexController.class
 com/gatokiri/Application.class
 com/gatokiri/MainController.class

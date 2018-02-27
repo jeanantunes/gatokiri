@@ -24,6 +24,14 @@
           <element id="library" level="project" name="Maven: org.springframework:spring-webmvc:4.3.14.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-expression:4.3.14.RELEASE" />
           <element id="library" level="project" name="Maven: org.flywaydb:flyway-core:5.0.7" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-thymeleaf:1.5.10.RELEASE" />
+          <element id="library" level="project" name="Maven: org.thymeleaf:thymeleaf-spring4:2.1.6.RELEASE" />
+          <element id="library" level="project" name="Maven: org.thymeleaf:thymeleaf:2.1.6.RELEASE" />
+          <element id="library" level="project" name="Maven: ognl:ognl:3.0.8" />
+          <element id="library" level="project" name="Maven: org.unbescape:unbescape:1.1.0.RELEASE" />
+          <element id="library" level="project" name="Maven: nz.net.ultraq.thymeleaf:thymeleaf-layout-dialect:1.4.0" />
+          <element id="library" level="project" name="Maven: org.codehaus.groovy:groovy:2.4.13" />
+          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:1.5.10.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-data-jpa:1.5.10.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-starter-aop:1.5.10.RELEASE" />
           <element id="library" level="project" name="Maven: org.aspectj:aspectjweaver:1.8.13" />
@@ -43,7 +51,6 @@
           <element id="library" level="project" name="Maven: mysql:mysql-connector-java:5.1.45" />
           <element id="library" level="project" name="Maven: org.springframework:spring-core:4.3.14.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot-autoconfigure:1.5.10.RELEASE" />
-          <element id="library" level="project" name="Maven: org.springframework.boot:spring-boot:1.5.10.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-web:4.3.14.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-aop:4.3.14.RELEASE" />
           <element id="library" level="project" name="Maven: org.springframework:spring-beans:4.3.14.RELEASE" />
