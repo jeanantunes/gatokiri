@@ -6,13 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8e82e585-bfc3-47f2-a257-d660d1fd36c1" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Procfile" afterPath="$PROJECT_DIR$/Procfile" />
-      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT.war" afterPath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT.war" />
-      <change beforePath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT.war.original" afterPath="$PROJECT_DIR$/target/gatokiri-0.0.1-SNAPSHOT.war.original" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
-    </list>
+    <list default="true" id="8e82e585-bfc3-47f2-a257-d660d1fd36c1" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -520,12 +514,12 @@
       <workItem from="1519681728618" duration="11249000" />
       <workItem from="1519701667179" duration="1874000" />
       <workItem from="1519735451381" duration="2228000" />
-      <workItem from="1519739319114" duration="12535000" />
+      <workItem from="1519739319114" duration="12738000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="43001000" />
+    <option name="totallyTimeSpent" value="43204000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="55" y="44" width="1323" height="780" extended-state="6" />
