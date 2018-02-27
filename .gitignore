@@ -11,4 +11,6 @@
 *.ear
 
 *.iml
-*.idea/workspace.xml
+*.idea/
+.idea/workspace.xml
+target/gatokiri-0.0.1-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.45.jar
